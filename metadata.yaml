@@ -1,0 +1,33 @@
+_repo: Seikkailusta-seikkailuun-Sotaisia-tarinoita-Filippiinien-saarilta_67304
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nyman, Väinö
+    alias: Nyman, Vaino
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '46596'
+    url: http://www.gutenberg.org/2009/agents/46596
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+creator:
+  author:
+    agent_name: Eady, K. M.
+    gutenberg_agent_id: '54205'
+    url: http://www.gutenberg.org/2009/agents/54205
+description: ''
+gutenberg_issued: '2022-02-02'
+identifiers:
+  gutenberg: '67304'
+language: fi
+pgterms:marc905: 20210806042550eady
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Kust. Oy Kirja,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Seikkailusta seikkailuun: Sotaisia tarinoita Filippiinien saarilta'
+url: http://www.gutenberg.org/ebooks/67304
