@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '46596'
     url: http://www.gutenberg.org/2009/agents/46596
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eady, K. M.
     gutenberg_agent_id: '54205'
     url: http://www.gutenberg.org/2009/agents/54205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67304#Seikkailusta-seikkailuun-Sotaisia-tarinoita-Filippiinien-saarilta
 gutenberg_issued: '2022-02-02'
 identifiers:
   gutenberg: '67304'
